@@ -94,6 +94,7 @@ cc_defaults {
         "-Wno-unused-parameter",
         // Disabling some of modules results in warnings
         "-Wno-unused-variable",
+        "-Wno-unused-function",
     ],
 }
 
